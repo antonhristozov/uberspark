@@ -17,7 +17,7 @@ Visit: <https://uberspark.org> for more information on how to download,
 build, install, contribute and get involved.
 
 The formatted documentation can 
-be read online at: <https://uberspark.org/docs/toc.html>
+be read online at: <https://docs.uberspark.org/>
 
 Documentation sources are within `docs/` 
 
